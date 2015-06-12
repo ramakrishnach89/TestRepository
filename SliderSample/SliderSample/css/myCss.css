@@ -1,0 +1,15 @@
+﻿body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+
+.rangeSlider {
+	width: 20%;
+}
+
+.disabledCover {
+    position:absolute;
+	background-color: gray;
+	opacity: 0.2;
+	z-index: 1000;
+}
